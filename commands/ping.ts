@@ -5,6 +5,6 @@ export const cmd:commandHandler={
     description:"ping",
     aliases:["pong"],
     exec(message, args) {
-        message.reply("pong!botbotより優秀")
+        message.reply("pong!botbotより優秀dayo")
     },
 }
